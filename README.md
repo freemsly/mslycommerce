@@ -6,6 +6,11 @@ https://github.com/VirtoCommerce
 2.SmartStoreNET
 https://github.com/smartstoreag/SmartStoreNET
 
+3.PartsUnlimited
+https://github.com/Microsoft/PartsUnlimited
+Parts Unlimited is a fictional ecommerce website based on the The Phoenix Project by Gene Kim, Kevin Behr and George Spafford. The website, built on ASP.NET 5 MVC 6 includes product listings by category, product details, shopping cart, order history, product recommendations, search, and more
+
+
 1.Portal.MVC —— nopcommerce的简化版
 Portal.MVC 简介
 项目是基于MVC4+EF,带有角色，权限，用户中心及账户相关(登录,注册,修改密码，找回密码等)等基本功能。参考的开源项目 nopcommerce，这是一个电商架构的MVC项目，我对其进行了简化，之前主要是方便我自己搭建一些小的网站。包含前台和后台。
